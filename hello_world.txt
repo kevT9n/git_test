@@ -1,0 +1,5 @@
+modify hello word.txt save it and stage it.
+to save it just press CTRL + S 
+to stage it : git add . 
+. means to add all files in the cdurrent directory and all subsequent directories to the staging area. 
+or you could simply add the file you are working on.
